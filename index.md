@@ -1,8 +1,8 @@
-# 케스트라 개인정보처리방침
+# Kstra 개인정보처리방침
 
-시행일: 2026-10-17 · 운영: stra (hello@stra.ai) · 이 문서의 공개 URL: https://yonghostra.github.io/kstra-site/
+시행일: 2026-10-17 · 운영: STRA Co., Ltd. (hello@stra.ai) · 이 문서의 공개 URL: https://yonghostra.github.io/kstra-site/
 
-케스트라(Kstra)는 뉴스·일정·뉴스레터·공유한 링크를 음성 브리핑으로 들려주는 앱입니다. 이 문서는 앱이 어떤 정보를 어떻게 다루는지 설명합니다.
+Kstra(케스트라)는 뉴스·일정·뉴스레터·공유한 링크를 음성 브리핑으로 들려주는 앱입니다. 이 문서는 앱이 어떤 정보를 어떻게 다루는지 설명합니다.
 
 ## 1. 수집하는 정보
 | 항목 | 내용 | 목적 | 보관 |
@@ -40,4 +40,4 @@
 ## 7. 변경
 방침이 바뀌면 이 페이지에 게시하고 시행일을 갱신합니다.
 
-문의: hello@stra.ai
+문의: STRA Co., Ltd. · 이메일 hello@stra.ai
