@@ -1,5 +1,7 @@
 # Kstra 개인정보처리방침
 
+> **문의하기** · 이메일 [hello@stra.ai](mailto:hello@stra.ai) · 운영 STRA Co., Ltd. · [문의하기 페이지](contact/)
+
 시행일: 2026-10-18 · 운영: STRA Co., Ltd. (hello@stra.ai) · 이 문서의 공개 URL: https://yonghostra.github.io/kstra-site/
 
 Kstra(케스트라)는 국내외 경제·테크·AI·스타트업 뉴스를 음성 브리핑으로 들려주는 앱입니다. 이 문서는 앱이 어떤 정보를 어떻게 다루는지 설명합니다.
